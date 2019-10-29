@@ -5,7 +5,7 @@
 * Spring (Microservicios: Eureka, Zuul y Hystrix)
 * [IBM Cloud](https://cloud.ibm.com/login) para servicios como:
     * (Lo que se desarrolle, sé manejar Watson Assistant, Visual recognition, Studio, Machine Learning, Redes Neuronales)
-* [API BBVA](https://www.bbvaapimarket.com/login)
+* [API BBVA](https://www.bbvaapimarket.com/login) ([Documentación](https://s3-eu-west-1.amazonaws.com/static.bbvaapimarket.com/resources/apimarket/guides/es/get_started.pdf)) ([Llamada de una API](https://s3-eu-west-1.amazonaws.com/static.bbvaapimarket.com/resources/apimarket/guides/es/api_calls.pdf)) ([Como se usa la APP](https://www.bbvaapimarket.com/how-it-works))
 * [MongoDB](https://cloud.mongodb.com/user?n=%2Fv2%2F5db66cc379358e05bf7dca42&nextHash=%23clusters#/atlas/login) para noSQL
 * [Google Cloud](https://cloud.google.com/) (No lo he usado, pero me podría funcionar para el Firebase, u otros servicios)
 * [GitHub Student Developer Pack](https://education.github.com/pack/offers)
